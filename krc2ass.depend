@@ -1,0 +1,135 @@
+# depslib dependency file v1.0
+1539766524 source:d:\工程\c语言代码\win32gui\krc2ass\main.cpp
+	<time.h>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<commctrl.h>
+	"resource.h"
+	<sys/stat.h>
+	"zlib/zconf.h"
+	"zlib/zlib.h"
+
+1539766217 d:\工程\c语言代码\win32gui\krc2ass\resource.h
+
+1539766217 source:d:\工程\c语言代码\win32gui\krc2ass\resource.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+
+1512095014 source:d:\工程\c语言代码\win32gui\krc2ass\zlib\adler32.c
+	"zutil.h"
+
+1512095014 d:\工程\c语言代码\win32gui\krc2ass\zlib\zutil.h
+	"zlib.h"
+	<stddef.h>
+	<string.h>
+	<stdlib.h>
+	<alloc.h>
+	<malloc.h>
+	<malloc.h>
+	<unix.h>
+	<stdio.h>
+
+1512095014 d:\工程\c语言代码\win32gui\krc2ass\zlib\zlib.h
+	"zconf.h"
+
+1512095014 d:\工程\c语言代码\win32gui\krc2ass\zlib\zconf.h
+	<windows.h>
+	<limits.h>
+	<sys/types.h>
+	<stdarg.h>
+	<stddef.h>
+	<unistd.h>
+	<unixio.h>
+
+1512095014 source:d:\工程\c语言代码\win32gui\krc2ass\zlib\compress.c
+	"zlib.h"
+
+1512095014 source:d:\工程\c语言代码\win32gui\krc2ass\zlib\crc32.c
+	<stdio.h>
+	"zutil.h"
+	"crc32.h"
+
+1512095014 d:\工程\c语言代码\win32gui\krc2ass\zlib\crc32.h
+
+1512095014 source:d:\工程\c语言代码\win32gui\krc2ass\zlib\deflate.c
+	"deflate.h"
+
+1512095014 d:\工程\c语言代码\win32gui\krc2ass\zlib\deflate.h
+	"zutil.h"
+
+1512095014 source:d:\工程\c语言代码\win32gui\krc2ass\zlib\gzclose.c
+	"gzguts.h"
+
+1512095014 d:\工程\c语言代码\win32gui\krc2ass\zlib\gzguts.h
+	<stdio.h>
+	"zlib.h"
+	<string.h>
+	<stdlib.h>
+	<limits.h>
+	<fcntl.h>
+	<stddef.h>
+	<io.h>
+	<windows.h>
+	<errno.h>
+
+1512095014 source:d:\工程\c语言代码\win32gui\krc2ass\zlib\gzlib.c
+	"gzguts.h"
+
+1512095014 source:d:\工程\c语言代码\win32gui\krc2ass\zlib\gzread.c
+	"gzguts.h"
+
+1512095014 source:d:\工程\c语言代码\win32gui\krc2ass\zlib\gzwrite.c
+	"gzguts.h"
+	<stdarg.h>
+
+1512095014 source:d:\工程\c语言代码\win32gui\krc2ass\zlib\infback.c
+	"zutil.h"
+	"inftrees.h"
+	"inflate.h"
+	"inffast.h"
+	"inffixed.h"
+
+1512095014 d:\工程\c语言代码\win32gui\krc2ass\zlib\inftrees.h
+
+1512095014 d:\工程\c语言代码\win32gui\krc2ass\zlib\inflate.h
+
+1512095014 d:\工程\c语言代码\win32gui\krc2ass\zlib\inffast.h
+
+1512095014 d:\工程\c语言代码\win32gui\krc2ass\zlib\inffixed.h
+
+1512095014 source:d:\工程\c语言代码\win32gui\krc2ass\zlib\inffast.c
+	"zutil.h"
+	"inftrees.h"
+	"inflate.h"
+	"inffast.h"
+
+1512095014 source:d:\工程\c语言代码\win32gui\krc2ass\zlib\inflate.c
+	"zutil.h"
+	"inftrees.h"
+	"inflate.h"
+	"inffast.h"
+	"inffixed.h"
+	<stdio.h>
+
+1512095014 source:d:\工程\c语言代码\win32gui\krc2ass\zlib\inftrees.c
+	"zutil.h"
+	"inftrees.h"
+
+1512095014 source:d:\工程\c语言代码\win32gui\krc2ass\zlib\trees.c
+	"deflate.h"
+	<ctype.h>
+	"trees.h"
+	<stdio.h>
+
+1512095014 d:\工程\c语言代码\win32gui\krc2ass\zlib\trees.h
+
+1512095014 source:d:\工程\c语言代码\win32gui\krc2ass\zlib\uncompr.c
+	"zlib.h"
+
+1512095014 source:d:\工程\c语言代码\win32gui\krc2ass\zlib\zutil.c
+	"zutil.h"
+	"gzguts.h"
+
