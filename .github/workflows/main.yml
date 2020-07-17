@@ -14,3 +14,5 @@ jobs:
     - run: |
         msys2do pacman -S --noconfirm mingw-w64-x86_64-gcc make
         msys2do make
+        msys2do ls
+        dir
