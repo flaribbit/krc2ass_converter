@@ -12,6 +12,5 @@ jobs:
     steps:
     - uses: numworks/setup-msys2@v1
     - run: |
-        msys2do pacman -Sy mingw-w64-x86_64-gcc
-        msys2do pacman -Sy make
+        msys2do pacman -S --noconfirm mingw-w64-x86_64-gcc make
         msys2do make
